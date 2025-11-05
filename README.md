@@ -125,6 +125,10 @@ Output Waveform
 
 TABULATION:
 
+<img width="604" height="701" alt="image" src="https://github.com/user-attachments/assets/afa69808-1ec3-4c93-8bc6-610ede05344f" />
+
+<img width="861" height="477" alt="image" src="https://github.com/user-attachments/assets/b1ea1ca2-8a5a-40bb-9647-280fd54b9604" />
+
 
 
 Calculation
